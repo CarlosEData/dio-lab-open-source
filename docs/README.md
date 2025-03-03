@@ -1,27 +1,29 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Profiles README DIO</span>
-</h1>
+# Projeto: Dio Lab Open Source
 
-## Sobre o Projeto
-Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
+## Descrição
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
+Este repositório é parte do **Dio Lab Open Source**, onde os desenvolvedores da comunidade DIO contribuem com melhorias, correções e recursos para o repositório. O objetivo deste projeto é colaborar com a criação de perfis de desenvolvedores, com o objetivo de dar visibilidade ao trabalho e à contribuição de cada participante da comunidade.
 
-```
-docs/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── scripts.js
-├── favicon.ico
-├── index.html
-└── README.md
-```
+Neste projeto, criei meu próprio **Profile README** na pasta `community`, como parte da entrega de um lab. O arquivo contém informações sobre minha jornada na área de **Ciência de Dados** e minhas contribuições para a comunidade.
 
-## Tecnologias
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+## Tecnologias Utilizadas
+
+- Git
+- GitHub
+- Markdown
+- Git Workflow (Git Flow)
+
+## Estrutura do Repositório
+
+O repositório é organizado da seguinte maneira:
+
+├── community/                # Contém os arquivos de perfil dos contribuintes
+
+│   └── CarlosEData.md        # Meu perfil no formato Markdown
+
+├── docs/                     # Documentação do projeto
+
+├── scripts/                  # Scripts úteis para automação
+
+└── utils/                    # Ferramentas auxiliares
+
